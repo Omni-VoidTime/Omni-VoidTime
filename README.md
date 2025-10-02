@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Omni-VoidTime, I am a third year majoring in Software Engineering.
+- 👋 Hi, I’m @Omni-VoidTime, I am a Senior majoring in Computer Science.
 - 👀 I’m interested in TTRPGs, Writing, Drawing and Stargazing
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Java, C#, and C++
 - 😄 Pronouns: I use They/Them pronouns
 
 <!---
